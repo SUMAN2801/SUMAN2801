@@ -40,7 +40,6 @@ I'm a passionate software developer with a love for creating innovative solution
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
 </div>
-## Projects
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SUMAN2801&theme=dark&background=000000)](https://git.io/streak-stats)
