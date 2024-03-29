@@ -1,46 +1,52 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="(https://www.linkedin.com/in/suman-das-723ab8223/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="sumandas2801@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=SUMAN2801&style=flat-square&color=blue" alt=""/>
+</div>
+
 # Hello, I'm Suman Das! 👋
 I'm a passionate software developer with a love for creating innovative solutions and tackling challenging problems. My journey in software development started during my early years of college, where I discovered my fascination for coding and its endless possibilities. Since then, I've been on a continuous learning journey, honing my skills and expanding my knowledge in various programming languages and technologies.
-## About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
 - 🌱 Currently exploring advanced concepts in Data Structures and Algorithms.
 - 💼 Seeking opportunities to collaborate on interesting projects and contribute to the tech community.
 - 🎓 Graduated with a degree in computer science and actively pursuing new learning opportunities.
 - 🚀 Passionate about leveraging technology to make a positive impact on society.
 - 💻 Learning how to become a competitive programmer.
-## Skills
-- Programming Languages:
-    - [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-    - [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-    - [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-- Web Development: 
-    - [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    - [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    - [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-- Databases: 
-    - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-    - [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-- Tools & Technologies: 
-    - [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-    - [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-    - [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse IDE" alt="Eclipse IDE" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+</div>
 ## Projects
-[Highlight a few of your notable projects. Include a brief description and link to each project.]
 
-1. [Project Name](link): Brief description.
-2. [Project Name](link): Brief description.
-3. ...
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SUMAN2801&theme=dark&background=000000)](https://git.io/streak-stats)
 
-## GitHub Stats
-
-[You can use tools like GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats) to display your GitHub statistics.]
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMAN2801&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with Me
-
-[Include links to your social media profiles, personal website, or any other relevant platforms where people can connect with you.]
-
-- [LinkedIn](link)
-- [Personal Website](link)
-- [Twitter](link)
-- [Email](mailto:youremail@example.com)
+<a href="(https://www.linkedin.com/in/suman-das-723ab8223/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+<a href="https://suman2801.github.io/SUMAN_PORTFOLIO/"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Personal Website"></a>
+<a href="sumandas2801@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"></a>
